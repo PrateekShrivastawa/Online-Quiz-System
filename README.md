@@ -1,1 +1,1 @@
-# Online-Examination-System
+# Online-Quiz-System
